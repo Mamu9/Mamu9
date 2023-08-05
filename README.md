@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mamu9. I code + write + think + unthink + paint + bake n cook + learn + learn + learn + walk. 
+- 👋 Hi, I’m @Mamu9. I code + write + think + unthink + paint + learn + learn + walk + run.
 - 👀 I’m interested in blockchain + DAOs + GAN + Stable Diffusion + NFTs.
 - 🌱 I’m currently learning solidity + token economy + polygon + bridges 
 - 💞️ I’m looking to collaborate on layer 2 NFT projects and DAO projects
