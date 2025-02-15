@@ -1,8 +1,8 @@
-- 👋 Hi, I write program and stories + think + unthink + paint + learn + learn + walk + run.
-- 👀 I’m into deep learning + blockchain + tokenomics + GAN + NFTs.
-- 🌱 I’m currently learning solidity + token economy 
-- 💞️ I’m looking to collaborate on layer 2 NFT projects and DAO projects
-- 📫 How to reach me @und_mamu - telegram
+- 👋 Hi, I write code and stories. Despite deepseek n claude's assistence sometimes.
+- 👀 I’m into deep thinking + tokenomics
+- 🌱 
+- 💞️
+- 📫 
 
 <!---
 Mamu9/Mamu9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
